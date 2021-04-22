@@ -1,0 +1,40 @@
+/*===========================================================
+
+   Template Name: DomainX - Domain for Sale Html Template
+   Author: Harnish Design
+   Template URL: http://demo.harnishdesign.net/html/domainX
+   Author URL: https://themeforest.net/user/harnishdesign
+   File Description : Main css file of the template
+	
+=================================================
+  Table of Contents
+=================================================
+
+	1. Basic
+	2. Helpers Classes
+	3. Layouts
+	4. Elements
+		4.1 Hero Background
+		4.2 List Style
+		4.3 Featured Box
+		4.4 Nav
+		4.5 Tabs
+		4.6 Owl Carousel
+	5. Extra
+
+=======================================================*/
+
+//-------------------- Fonts --------------------//
+
+$body-font: 'Poppins', sans-serif;
+$title-font: 'Poppins', sans-serif;
+
+//-------------------- Base Colors --------------------//
+
+$primary-color: 			$blue;
+$primary-color-hover: 		darken($primary-color, 7%);
+$secondary-color: 			$secondary;
+
+$body-bg:					#dddddd;
+$text-color:				#4c4d4d;
+$title-color:     			#252b33;
